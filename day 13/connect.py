@@ -17,7 +17,6 @@ DELETE
 # what is the HTTP mrthod that we need?
 
 
-
 """
 Endpoint
 /movie/{movie_id}
